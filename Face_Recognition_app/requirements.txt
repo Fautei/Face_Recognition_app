@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+torchaudio
+PIL
+facenet_pytorch
+pyqt5
+sqlite3
+Jetson.GPIO
